@@ -133,6 +133,10 @@ body {
     background-image: url("img/icon-java.svg");
     max-height: 25px;
 }
+
+.skills-list span {
+    max-height: auto;
+}
   
 .level {
     margin: 4px 0 16px;
