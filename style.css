@@ -121,21 +121,17 @@ body {
 
 .skill-js {
     background-image: url("img/icon-js.svg");
-    max-height: 25px;
+    background-size: 25px;
 }
 
 .skill-python {
     background-image: url("img/icon-python.svg");
-    max-height: 25px;
+    background-size: 25px;
 }
 
 .skill-java {
     background-image: url("img/icon-java.svg");
-    max-height: 25px;
-}
-
-.skills-list span {
-    font-size: 16px;
+    background-size: 25px;
 }
   
 .level {
