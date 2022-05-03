@@ -135,7 +135,7 @@ body {
 }
 
 .skills-list span {
-    max-height: auto;
+    font-size: 16px;
 }
   
 .level {
