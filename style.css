@@ -15,7 +15,7 @@ body {
     max-width: 928px;
     margin: 0 auto;
     padding: 0 16px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .page-header {
@@ -117,6 +117,21 @@ body {
   
 .skill-css {
     background-image: url("img/icon-css.svg");
+}
+
+.skill-js {
+    background-image: url("img/icon-js.svg");
+    max-height: 25px;
+}
+
+.skill-python {
+    background-image: url("img/icon-python.svg");
+    max-height: 25px;
+}
+
+.skill-java {
+    background-image: url("img/icon-java.svg");
+    max-height: 25px;
 }
   
 .level {
